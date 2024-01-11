@@ -4,7 +4,7 @@
 
 Este projeto é uma landing page desenvolvida para um escritório de advocacia. A página foi projetada para ser simples, elegante e fácil de usar, proporcionando aos visitantes todas as informações necessárias sobre o escritório e os serviços oferecidos.
 
-![Imagem do Projeto](![Alt text](img/image.png))
+![Alt text](img/image.png)
 
 ### Tecnologias Utilizadas
 
@@ -25,9 +25,3 @@ Para usar este projeto, basta clicar no link (link será adicionado após o depl
 ### Contribuições
 
 Contribuições são sempre bem-vindas. Se você tem alguma ideia para melhorar o projeto, sinta-se à vontade para fazer um fork e enviar um pull request.
-
-### Licença
-
-Este projeto está licenciado sob a licença MIT.
-
-Substitua "url-da-imagem" pela URL da imagem do seu projeto.
