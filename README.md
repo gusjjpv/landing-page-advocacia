@@ -20,7 +20,9 @@ Para os ícones, foi utilizada a biblioteca Bootstrap Icons. Esta biblioteca ofe
 
 ### Como Usar
 
-Para usar este projeto, basta clicar no link (link será adicionado após o deploy do projeto).
+Para usar este projeto, basta clicar no link:
+
+<a href="https://landing-page-advocacia-seven.vercel.app/">Clique Aqui</a>
 
 ### Contribuições
 
