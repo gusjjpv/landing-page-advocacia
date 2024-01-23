@@ -18,9 +18,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 Para os ícones, foi utilizada a biblioteca Bootstrap Icons. Esta biblioteca oferece uma ampla variedade de ícones que podem ser facilmente incorporados em qualquer projeto web.
 
-### Como Usar
+### VEJA AQUI
 
-Para usar este projeto, basta clicar no link:
+Para ver este projeto, basta clicar no link:
 
 <a href="https://landing-page-advocacia-seven.vercel.app/">Clique Aqui</a>
 
